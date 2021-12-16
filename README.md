@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unbeardkarlos
 - 👀 I’m interested in web developpement, cyber security, sysadmin with fedora linux and gnome ecosystem.
 - ⚙️ i'm coding in python and php.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and i would like to get some skills in ethical hacking. 
 - 💞️ I’m looking to collaborate on some gnome project maybe ... i would like to do it !   
 - 📫 you can send me a mail on my devel email: florian.marx.pro@protonmail.com
 
